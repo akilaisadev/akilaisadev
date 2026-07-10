@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/akilaisadev?style=flat-square&logo=github)](https://github.com/akilaisadev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akila-wasalathilaka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-akila.dev-red?style=flat-square)](https://akila.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akila.dev-red?style=flat-square)]((http://akila.is-a.dev/))
 
 **Full-Stack AI Engineer & Security Researcher**
 
