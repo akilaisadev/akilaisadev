@@ -15,7 +15,6 @@ Crafting intelligent, secure, and high-performance solutions. Specialized in Dee
 - [🛠 Tech Stack](#-tech-stack)
 - [🚀 Featured Projects](#-featured-projects)
   - [🛡️ PRISM (Threat Intelligence & Risk Assessment)](#-prism-threat-intelligence--risk-assessment)
-  - [📱 Meduza (Censorship-Resistant News Reader)](#-meduza-censorship-resistant-news-reader)
   - [🌍 Slum Detection (Satellite Image AI Analyser)](#-slum-detection-satellite-image-ai-analyser)
 - [📈 GitHub Stats](#-github-stats)
 - [📬 Connect with Me](#-connect-with-me)
@@ -59,31 +58,6 @@ cd prism
 make setup      # Install dependencies and setup environment
 make up         # Spin up PostgreSQL, Redis, and FastAPI app
 ```
-
----
-
-### 📱 Meduza (Censorship-Resistant News Reader)
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/akilaisadev/meduza/releases)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/akilaisadev/meduza/android.yml?style=flat-square)](https://github.com/akilaisadev/meduza/actions)
-
-Meduza is a lightweight, decentralized, and censorship-resistant client application designed to deliver independent journalism to restricted regions.
-
-#### 📸 Showcase & App Screenshots
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akilaisadev/meduza/main/assets/screenshot_home.png" width="250" alt="Meduza Home Screen" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/akilaisadev/meduza/main/assets/screenshot_article.png" width="250" alt="Meduza Article Reader" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/akilaisadev/meduza/main/assets/screenshot_offline.png" width="250" alt="Meduza Offline Mode" style="border-radius: 10px; margin: 10px;" />
-</p>
-
-#### ⚖️ Comparison: Meduza vs. Traditional RSS Readers
-| Feature | Meduza | Traditional RSS Readers |
-| :--- | :---: | :---: |
-| **Censorship Resistance** | **Yes (P2P & IPFS)** | No (Direct HTTP) |
-| **Offline Cache** | **Yes (SQLite Local Sync)** | Partial |
-| **Push Notifications** | **Decentralized Pub/Sub** | Centralized APNS/FCM |
-| **Privacy / No Tracking** | **Tor/VPN routing ready** | IP/Cookie Logs |
-
----
 
 ### 🌍 Slum Detection (Satellite Image AI Analyser)
 [![Paper](https://img.shields.io/badge/Research-Paper-orange?style=flat-square&logo=gitbook)](https://github.com/akilaisadev/slum-detection/raw/main/paper.pdf)
