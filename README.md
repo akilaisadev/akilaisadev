@@ -177,11 +177,11 @@ print("Inference completed. Overlay saved to output/slum_overlay.png.")
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akilaisadev&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=false&cache_seconds=1800&rank_icon=github" alt="Akila's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=akilaisadev&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=false&cache_seconds=1800&rank_icon=github" alt="Akila's GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=akilaisadev&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaisadev&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&cache_seconds=1800&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akilaisadev&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&cache_seconds=1800&langs_count=8" alt="Top Languages" />
 </p>
 
 <br/>
